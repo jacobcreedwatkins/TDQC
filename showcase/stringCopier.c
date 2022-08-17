@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-//strcpy() function from string.h already exists, but this is a demonstration of creating a function and using simple pointer arithmetic
+//strcpy() function from string.h already exists, but this is just a demonstration of creating a function and using simple pointer arithmetic
 //simple demonstration of fundamental skills of using C
 
 void copy(char* dst, char* src){
